@@ -1,8 +1,1 @@
-# snake_game
-
-1.description: A basic snake game built with pygame  
-
-2.how to use:
-```python
-python "import pygame.py"
-```
+A Python implementation of the classic Snake game using Pygame for rendering and game loop management — a lightweight project for practicing game logic, collision detection, and event-driven programming in Python.
